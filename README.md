@@ -1,6 +1,6 @@
 # Financial Management System
 
-This project is a Financial Management System built with [Financial System](https://github.com/Jeanll7/financial) using React and TypeScript.
+This project is a Financial Management System built with [Create React App](https://github.com/facebook/create-react-app) using React and TypeScript.
 
 ## Table of Contents
 
